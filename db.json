@@ -1,0 +1,66 @@
+[
+   {
+     "id": "1",
+     "img": "../src/assets/images/googl.png",
+     "name": "Technical Database Engineer",
+     "sub_name":"Google LLC",
+     "job_one": "Full-Time",
+     "job_two": "Remote",
+     "location": "Dhaka, Bangladesh",
+     "salary" : "100K - 150K"
+     
+   },
+   {
+     "id": "2",
+     "img": "../src/assets/images/netfli.png",
+     "name": "Senior Product Designer",
+     "sub_name":"Netflix LLC",
+     "job_one": "Full-Time",
+     "job_two": "Onsite",
+     "location": "nator, Bangladesh",
+     "salary" : "200K - 250K"
+   },
+   {
+     "id": "3",
+     "img": "../src/assets/images/tesla.png",
+     "name": "Software Engineer",
+     "sub_name":"Tesla",
+     "job_one": "Full-Time",
+     "job_two": "Remote",
+     "location": "LA, USA",
+     "salary" : "300K - 400K"
+   },
+   {
+     "id": "4",
+     "img": "../src/assets/images/Group.png",
+     "name": "Marketing Manager",
+     "sub_name":"Banglar Group",
+     "job_one": "Full-Time",
+     "job_two": "Onsite",
+     "location": "Bancroft, Canada",
+     "salary" : "90K - 150K"
+   },
+   {
+     "id": "5",
+     "img": "../src/assets/images/googl.png",
+     "name": "Technical Database Engineer",
+     "sub_name":"Google LLC",
+     "job_one": "Full-Time",
+     "job_two": "Remote",
+     "location": "Dhaka, Bangladesh",
+     "salary" : "100K - 150K"
+   },
+   {
+     "id": "6",
+     "img": "../src/assets/images/googl.png",
+     "name": "Technical Database Engineer",
+     "sub_name":"Google LLC",
+     "job_one": "Full-Time",
+     "job_two": "Remote",
+     "location": "telesa, uganda",
+     "salary" : "40K - 80K"
+     
+   }
+   
+ ]
+ 
